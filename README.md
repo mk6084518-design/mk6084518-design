@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00FF00&height=220&section=header&text=YOUR%20NAME&fontSize=65&fontColor=00FF00&animation=fadeIn" width="100%"/>
 
 <!-- Typing animation banner -->
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/Manoj Kumar">
   <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=39D353&center=true&vCenter=true&width=560&lines=Your+Name+%7C+Full+Stack+Developer;Creative+Frontend+Engineer;Building+Experiences%2C+Not+Just+Websites" alt="typing banner" />
 </a>
 
