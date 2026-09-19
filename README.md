@@ -129,7 +129,9 @@ Search images, video and GIFs in real time from Unsplash, Pexels and Tenor, all 
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mk6084518-design&hide_border=true&bg_color=0B0A24&color=B388FF&line=4CC9F0&point=FF5D73&area=true&area_color=2BE38A" width="95%"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=mk6084518-design&theme=algolia&no-frame=true&row=1&column=6"/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:B388FF,100:FF5D73&height=4" width="100%"/>
+
 
 </div>
 
