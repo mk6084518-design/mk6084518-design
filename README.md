@@ -133,7 +133,6 @@ Search images, video and GIFs in real time from Unsplash, Pexels and Tenor, all 
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:B388FF,100:FF5D73&height=4" width="100%"/>
 
 ## 📫 Let's connect
 
