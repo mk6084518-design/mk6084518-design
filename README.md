@@ -1,61 +1,78 @@
-<div align="center"> <!-- Animated wave header --> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00FF00&height=220&section=header&text=MANOJ%20KUMAR&fontSize=60&fontColor=00FF00&animation=fadeIn" width="100%"/> <!-- Typing animation banner --> <a href="https://github.com/mk6084518-design"> <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=39D353&center=true&vCenter=true&width=600&lines=Manoj+Kumar+%7C+Full+Stack+Developer;MERN+Stack+%7C+React+%26+Node.js;Building+AI-Powered+Web+Experiences" alt="typing banner" /> </a> </div>
+<div align="center"> <!-- Animated wave header --> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:00FF00,100:000000&height=250&section=header&text=MANOJ%20KUMAR&fontSize=62&fontColor=00FF00&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20%2B%20AI&descAlignY=58&descSize=20&descColor=39D353" width="100%"/> <!-- Typing animation banner --> <a href="https://github.com/mk6084518-design"> <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=24&duration=2600&pause=900&color=39D353&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+%7C+MERN+Stack;React.js+%2B+Redux+%2B+Node.js+%2B+Express;AI+Model+%26+API+Integration+Specialist;Building+Products%2C+Not+Just+Pages" alt="typing banner" /> </a> <br/> <!-- Social & visitor badges --> <img src="https://komarev.com/ghpvc/?username=mk6084518-design&style=for-the-badge&color=39D353&label=PROFILE+VIEWS" /> <img src="https://img.shields.io/github/followers/mk6084518-design?style=for-the-badge&color=39D353&labelColor=000000" /> <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=000000&color=39D353&label=Repos&query=public_repos&url=https://api.github.com/users/mk6084518-design" /> </div> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FF00,100:000000&height=3" width="100%"/>
 🧠 About Me
-
-I'm a Full Stack Developer building responsive, production-ready web apps with the MERN stack, and integrating AI models & third-party APIs to make products smarter.
-
-🔭 Currently building AI-powered web platforms
-🌱 Pursuing B.Tech in CSE at ANA College of Engineering and Management Studies (AKTU) — 2024–2028
-⚡ Comfortable across frontend architecture, backend APIs, and secure auth workflows
-📍 Based in Noida, Uttar Pradesh, India
+javascript
+const manoj = {
+  role: "Full Stack Developer",
+  stack: ["React.js", "Redux Toolkit", "Node.js", "Express.js", "MongoDB"],
+  focus: "AI-powered web platforms",
+  currentlyLearning: "Advanced system design & AI agent workflows",
+  funFact: "I turn ☕ into 🚀 shippable products"
+};
+🔭 Building AI-integrated full stack web apps using the MERN stack
+🎓 B.Tech CSE @ ANA College of Engineering and Management Studies (AKTU) — 2024–2028
+🤖 Working with Google Gemini API, Unsplash, Pexels & Tenor APIs
+🔐 Strong on secure authentication (JWT) & clean MVC backend architecture
+📍 Noida, Uttar Pradesh, India
+💬 Ask me about React, Redux Toolkit, or REST API design
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FF00,100:000000&height=3" width="100%"/>
-🚀 Selected Work
-⚡ AI Resume Analyzer
+🚀 Featured Projects
+<table> <tr> <td width="50%">
+🤖 AI Resume Analyzer
 
-AI-powered resume analysis with personalized, role-specific feedback
+AI-powered resume feedback engine
 
-Stack: React.js · Redux Toolkit · Node.js · Express.js · JWT · Google Gemini API · REST APIs
+Upload a resume + target job title/description and get personalized, role-specific analysis powered by Google Gemini.
 
-Users upload a resume + job title/description for tailored analysis
-Integrated Google Gemini API to generate 5 personalized resume-improvement questions with answers
-Built AI-driven behavioral interview Q&A generation to help users prep for target roles
+✅ Generates 5 tailored resume-improvement Q&As
+✅ AI-driven behavioral interview prep
+✅ Full auth flow with JWT
 
-🔗 Live Demo · 📂 Source
+React Redux Toolkit Node.js Express.js Gemini API
 
-⚡ Interest — Media Search Platform
+🔗 Live Demo  |  📂 Source Code
 
-Responsive media discovery across images, videos & GIFs
+</td> <td width="50%">
+🎬 Interest — Media Search Platform
 
-Stack: React.js · Redux Toolkit · Vite · JavaScript · REST APIs · Unsplash API · Pexels API · Tenor API
+Multi-source media discovery engine
 
-Integrated Unsplash, Pexels & Tenor APIs for dynamic, real-time media retrieval
-Built reusable React components with category-based media rendering
-Designed an interactive, responsive discovery interface
+A responsive platform to search & explore images, videos, and GIFs in real time across three APIs.
 
-🔗 Live Demo · 📂 Source
+✅ Unified search across Unsplash, Pexels & Tenor
+✅ Category-based reusable React components
+✅ Fully responsive, interactive UI
 
-🧩 What I Do
-Build responsive, scalable web apps with React.js + Redux Toolkit + Tailwind CSS
-Design secure REST APIs with Node.js, Express.js & JWT authentication
-Integrate AI models (Gemini) and third-party APIs into real products
-Architect clean, MVC-driven backend systems with MongoDB
+React Redux Toolkit Vite REST APIs
+
+🔗 Live Demo  |  📂 Source Code
+
+</td> </tr> </table>
+
+💡 Want to add more? Send me the repo link/description and I'll drop in a third card here.
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FF00,100:000000&height=3" width="100%"/>
-🧠 Tech Stack
+🧩 What I Bring
 <div align="center">
-
-Show Image Show Image Show Image Show Image Show Image Show Image Show Image Show Image Show Image Show Image Show Image Show Image Show Image Show Image Show Image
-
-</div>
-📊 GitHub Stats
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mk6084518-design&show_icons=true&theme=radical" width="49%"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=mk6084518-design&theme=radical" width="49%"/> <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=22&duration=2500&pause=800&color=00FF00&center=true&vCenter=true&width=700&lines=SYSTEM+INITIALIZING...;MANOJ+KUMAR+ONLINE;BUILDING+AI-POWERED+WEB+APPS;SCROLL+TO+CONNECT" /> </div>
+⚡ Frontend	⚙️ Backend	🤖 AI & APIs	🛠️ Tools
+React.js	Node.js	Google Gemini API	Git & GitHub
+Redux Toolkit	Express.js	Unsplash API	Vite
+Tailwind CSS	MongoDB	Pexels API	Postman
+JavaScript ES6+	JWT Auth	Tenor API	VS Code
+</div> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FF00,100:000000&height=3" width="100%"/>
+🧠 Tech Stack
+<div align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,nodejs,express,mongodb,git,github,vite,postman,vscode&theme=dark&perline=7" /> </div> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FF00,100:000000&height=3" width="100%"/>
+📊 GitHub Analytics
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mk6084518-design&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=mk6084518-design&theme=radical&hide_border=true" height="165"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mk6084518-design&layout=compact&theme=radical&hide_border=true" height="165"/> <img src="https://github-readme-activity-graph.vercel.app/graph?username=mk6084518-design&theme=react-dark&hide_border=true" width="95%"/> </div>
+🏆 GitHub Trophies
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=mk6084518-design&theme=radical&no-frame=true&row=1&column=6" /> </div> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FF00,100:000000&height=3" width="100%"/> <div align="center"> <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=22&duration=2500&pause=800&color=00FF00&center=true&vCenter=true&width=700&lines=SYSTEM+INITIALIZING...;MANOJ+KUMAR+ONLINE;BUILDING+AI-POWERED+WEB+APPS;SCROLL+TO+CONNECT" /> </div>
 📫 Let's Connect
 <div align="center">
 
-Email LinkedIn GitHub
+Email LinkedIn GitHub Phone
 
-</div>
-<!-- Contribution snake animation (requires GitHub Action, see setup note below) --> <div align="center"> <img src="https://raw.githubusercontent.com/mk6084518-design/mk6084518-design/output/snake.svg" alt="snake eating contribution graph"/> </div>
+</div> <!-- Contribution snake animation (requires GitHub Action — see setup note below) --> <div align="center"> <img src="https://raw.githubusercontent.com/mk6084518-design/mk6084518-design/output/snake.svg" alt="snake eating contribution graph"/> </div>
 <div align="center">
 
 Full Stack Developer · MERN + AI · Building things that work.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00FF00&height=120&section=footer" width="100%"/> </div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:00FF00,100:0f2027&height=140&section=footer&animation=twinkling" width="100%"/> </div>
