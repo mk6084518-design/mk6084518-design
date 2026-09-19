@@ -139,10 +139,9 @@ Search images, video and GIFs in real time from Unsplash, Pexels and Tenor, all 
 
 <div align="center">
 
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-FF5D73?style=for-the-badge&logo=gmail&logoColor=0B0A24"/></a>
-<a href="https://linkedin.com/in/YOUR_HANDLE"><img src="https://img.shields.io/badge/LinkedIn-4CC9F0?style=for-the-badge&logo=linkedin&logoColor=0B0A24"/></a>
+<a href="https://www.linkedin.com/in/manoj-kumar-138529392/"><img src="https://img.shields.io/badge/LinkedIn-4CC9F0?style=for-the-badge&logo=linkedin&logoColor=0B0A24"/></a>
 <a href="https://github.com/mk6084518-design"><img src="https://img.shields.io/badge/GitHub-B388FF?style=for-the-badge&logo=github&logoColor=0B0A24"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Portfolio-2BE38A?style=for-the-badge&logo=vercel&logoColor=0B0A24"/></a>
+<a href="https://my-portfolio-xttc.onrender.com/"><img src="https://img.shields.io/badge/Portfolio-2BE38A?style=for-the-badge&logo=vercel&logoColor=0B0A24"/></a>
 
 <br/><br/>
 
