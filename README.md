@@ -123,11 +123,14 @@ Search images, video and GIFs in real time from Unsplash, Pexels and Tenor, all 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mk6084518-design&show_icons=true&hide_border=true&count_private=true&bg_color=0B0A24&title_color=FF5D73&icon_color=4CC9F0&text_color=F2EFFF" height="165"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mk6084518-design&hide_border=true&background=0B0A24&ring=FFB347&fire=FF5D73&currStreakLabel=2BE38A&sideLabels=4CC9F0&dates=9C97C9&stroke=B388FF&currStreakNum=F2EFFF&sideNums=F2EFFF" height="165"/>
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:B388FF,100:FF5D73&height=4" width="100%"/>
+
+
 
 
 ## 📫 Let's connect
