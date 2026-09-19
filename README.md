@@ -151,6 +151,6 @@ Search images, video and GIFs in real time from Unsplash, Pexels and Tenor, all 
 
 <i>Full stack developer · MERN + AI · Building things that work.</i>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:B388FF,25:4CC9F0,50:2BE38A,75:FFB347,100:FF5D73&height=150&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://www.instagram.com/p/DddqJi6P9Zf/"/>
 
 </div>
