@@ -63,7 +63,7 @@ Upload a resume with a target job title and description, and get analysis writte
 ![Node](https://img.shields.io/badge/Node.js-2BE38A?style=flat-square&logo=nodedotjs&logoColor=0B0A24)
 ![Gemini](https://img.shields.io/badge/Gemini_API-2BE38A?style=flat-square&logo=google&logoColor=0B0A24)
 
-🔗 **[Live demo](#)** · 📂 **[Source](#)**
+🔗 **[Live demo](https://airesume-1-ycaj.onrender.com)** · 📂 **[Source](https://github.com/mk6084518-design/airesume.git)**
 
 </td>
 <td width="50%" valign="top">
@@ -85,7 +85,7 @@ Search images, video and GIFs in real time from Unsplash, Pexels and Tenor, all 
 ![Vite](https://img.shields.io/badge/Vite-FF5D73?style=flat-square&logo=vite&logoColor=0B0A24)
 ![REST](https://img.shields.io/badge/REST_APIs-FF5D73?style=flat-square&logo=fastapi&logoColor=0B0A24)
 
-🔗 **[Live demo](#)** · 📂 **[Source](#)**
+🔗 **[Live demo](https://interest-i3s1.onrender.com)** · 📂 **[Source](https://github.com/mk6084518-design/Interest.git)**
 
 </td>
 </tr>
