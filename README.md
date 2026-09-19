@@ -1,116 +1,61 @@
-<div align="center">
+<div align="center"> <!-- Animated wave header --> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00FF00&height=220&section=header&text=MANOJ%20KUMAR&fontSize=60&fontColor=00FF00&animation=fadeIn" width="100%"/> <!-- Typing animation banner --> <a href="https://github.com/mk6084518-design"> <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=39D353&center=true&vCenter=true&width=600&lines=Manoj+Kumar+%7C+Full+Stack+Developer;MERN+Stack+%7C+React+%26+Node.js;Building+AI-Powered+Web+Experiences" alt="typing banner" /> </a> </div>
+🧠 About Me
 
-<!-- Animated wave header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00FF00&height=220&section=header&text=YOUR%20NAME&fontSize=65&fontColor=00FF00&animation=fadeIn" width="100%"/>
+I'm a Full Stack Developer building responsive, production-ready web apps with the MERN stack, and integrating AI models & third-party APIs to make products smarter.
 
-<!-- Typing animation banner -->
-<a href="https://github.com/Manoj Kumar">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=39D353&center=true&vCenter=true&width=560&lines=Your+Name+%7C+Full+Stack+Developer;Creative+Frontend+Engineer;Building+Experiences%2C+Not+Just+Websites" alt="typing banner" />
-</a>
-
-</div>
-
----
-
-## 🧠 Identity
-
-I don't build "websites."
-I build **experiences that hold attention.**
-Interfaces that feel intentional.
-Work that people remember.
-
----
-
+🔭 Currently building AI-powered web platforms
+🌱 Pursuing B.Tech in CSE at ANA College of Engineering and Management Studies (AKTU) — 2024–2028
+⚡ Comfortable across frontend architecture, backend APIs, and secure auth workflows
+📍 Based in Noida, Uttar Pradesh, India
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FF00,100:000000&height=3" width="100%"/>
+🚀 Selected Work
+⚡ AI Resume Analyzer
 
-## 🚀 Selected Work
+AI-powered resume analysis with personalized, role-specific feedback
 
-### ⚡ Project One
-> Built to *hook attention instantly*
+Stack: React.js · Redux Toolkit · Node.js · Express.js · JWT · Google Gemini API · REST APIs
 
-[![Project One Preview](https://via.placeholder.com/720x360?text=Your+Project+Preview)](https://github.com/YOUR_USERNAME/project-one)
+Users upload a resume + job title/description for tailored analysis
+Integrated Google Gemini API to generate 5 personalized resume-improvement questions with answers
+Built AI-driven behavioral interview Q&A generation to help users prep for target roles
 
----
+🔗 Live Demo · 📂 Source
 
-### ⚡ Project Two
-> Smooth. Fast. Designed to convert.
+⚡ Interest — Media Search Platform
 
-[![Project Two Preview](https://via.placeholder.com/720x360?text=Your+Project+Preview)](https://github.com/YOUR_USERNAME/project-two)
+Responsive media discovery across images, videos & GIFs
 
----
+Stack: React.js · Redux Toolkit · Vite · JavaScript · REST APIs · Unsplash API · Pexels API · Tenor API
 
-## 🧩 What I Do
+Integrated Unsplash, Pexels & Tenor APIs for dynamic, real-time media retrieval
+Built reusable React components with category-based media rendering
+Designed an interactive, responsive discovery interface
 
-- Design high-impact UI
-- Build interactive frontend systems
-- Turn ideas into visual experiences
+🔗 Live Demo · 📂 Source
 
----
-
+🧩 What I Do
+Build responsive, scalable web apps with React.js + Redux Toolkit + Tailwind CSS
+Design secure REST APIs with Node.js, Express.js & JWT authentication
+Integrate AI models (Gemini) and third-party APIs into real products
+Architect clean, MVC-driven backend systems with MongoDB
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FF00,100:000000&height=3" width="100%"/>
-
-## ⚡ Current Direction
-
-- Advanced UI animation systems
-- Portfolio-grade projects
-- Creative frontend engineering
-
----
-
-## 🧠 Stack
-
-**Frontend** → HTML, CSS, JavaScript
-**Tools** → Git, Figma
-**Learning** → React, Motion Systems
-
+🧠 Tech Stack
 <div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+Show Image Show Image Show Image Show Image Show Image Show Image Show Image Show Image Show Image Show Image Show Image Show Image Show Image Show Image Show Image
 
 </div>
-
----
-
-## 📊 Proof
-
+📊 GitHub Stats
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mk6084518-design&show_icons=true&theme=radical" width="49%"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=mk6084518-design&theme=radical" width="49%"/> <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=22&duration=2500&pause=800&color=00FF00&center=true&vCenter=true&width=700&lines=SYSTEM+INITIALIZING...;MANOJ+KUMAR+ONLINE;BUILDING+AI-POWERED+WEB+APPS;SCROLL+TO+CONNECT" /> </div>
+📫 Let's Connect
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" width="49%"/>
-
-<img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=24&duration=2500&pause=800&color=00FF00&center=true&vCenter=true&width=700&lines=SYSTEM+INITIALIZING...;YOUR_USERNAME+ONLINE;CREATING+INTERFACES+THAT+FEEL+ALIVE;SCROLL+TO+ENTER" />
+Email LinkedIn GitHub
 
 </div>
-
----
-
-## 📫 Contact
-
+<!-- Contribution snake animation (requires GitHub Action, see setup note below) --> <div align="center"> <img src="https://raw.githubusercontent.com/mk6084518-design/mk6084518-design/output/snake.svg" alt="snake eating contribution graph"/> </div>
 <div align="center">
 
-[![Telegram](https://img.shields.io/badge/Telegram-Contact-00FF00?style=for-the-badge)](https://t.me/YOUR_TELEGRAM)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-00FF00?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR_HANDLE)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-00FF00?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_HANDLE)
+Full Stack Developer · MERN + AI · Building things that work.
 
-</div>
-
----
-
-<!-- Contribution snake animation (requires GitHub Action, see notes below) -->
-<div align="center">
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/snake.svg" alt="snake eating contribution graph"/>
-</div>
-
----
-
-<div align="center">
-
-**Not here to compete. Here to be remembered.**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00FF00&height=120&section=footer" width="100%"/>
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00FF00&height=120&section=footer" width="100%"/> </div>
