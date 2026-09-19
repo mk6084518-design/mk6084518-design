@@ -151,6 +151,5 @@ Search images, video and GIFs in real time from Unsplash, Pexels and Tenor, all 
 
 <i>Full stack developer · MERN + AI · Building things that work.</i>
 
-<img src="https://www.instagram.com/manojkumar_blz/"/>
 
 </div>
