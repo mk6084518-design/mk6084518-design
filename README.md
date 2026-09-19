@@ -145,11 +145,10 @@ Search images, video and GIFs in real time from Unsplash, Pexels and Tenor, all 
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/mk6084518-design/mk6084518-design/output/snake.svg" alt="contribution snake"/>
 
 <br/>
 
 <i>Full stack developer · MERN + AI · Building things that work.</i>
 
-
+z
 </div>
