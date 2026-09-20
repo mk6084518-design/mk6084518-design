@@ -148,4 +148,6 @@ Search images, video and GIFs in real time from Unsplash, Pexels and Tenor, all 
 
 <i>Full stack developer · MERN + AI · Building things that work.</i>
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF1493,16:8A2BE2,33:00BFFF,50:00FF7F,66:FFFF00,83:FF7F00,100:FF0000&height=120&section=footer" alt="Rainbow footer banner" />
+
 </div>
