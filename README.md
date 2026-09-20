@@ -131,8 +131,6 @@ Search images, video and GIFs in real time from Unsplash, Pexels and Tenor, all 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:B388FF,100:FF5D73&height=4" width="100%"/>
 
 
-
-
 ## 📫 Let's connect
 
 <div align="center">
@@ -141,10 +139,6 @@ Search images, video and GIFs in real time from Unsplash, Pexels and Tenor, all 
 <a href="https://github.com/mk6084518-design"><img src="https://img.shields.io/badge/GitHub-B388FF?style=for-the-badge&logo=github&logoColor=0B0A24"/></a>
 <a href="https://my-portfolio-xttc.onrender.com/"><img src="https://img.shields.io/badge/Portfolio-2BE38A?style=for-the-badge&logo=vercel&logoColor=0B0A24"/></a>
 
-<br/><br/>
-
-
-<br/>
 
 <i>Full stack developer · MERN + AI · Building things that work.</i>
 
