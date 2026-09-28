@@ -135,7 +135,7 @@ Search images, video and GIFs in real time from Unsplash, Pexels and Tenor, all 
 <img src="./assets/skill-matrix.svg" width="700" alt="Skill Matrix"/>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF5D73,100:4CC9F0&height=4" width="100%"/>
+<img src="file:///Users/manojkumar/Downloads/skill-matrix%20(1).svg" width="100%"/>
 
 ## 📫 Let's connect
 
