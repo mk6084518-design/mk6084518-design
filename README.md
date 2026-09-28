@@ -8,9 +8,9 @@
 
 <br/>
 
-<!-- <img src="https://komarev.com/ghpvc/?username=mk6084518-design&style=for-the-badge&color=FF5D73&labelColor=0B0A24&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=mk6084518-design&style=for-the-badge&color=FF5D73&labelColor=0B0A24&label=PROFILE+VIEWS"/>
 <img src="https://img.shields.io/github/followers/mk6084518-design?style=for-the-badge&color=FFB347&labelColor=0B0A24"/>
-<img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=0B0A24&color=2BE38A&label=Repos&query=public_repos&url=https://api.github.com/users/mk6084518-design"/> -->
+<img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=0B0A24&color=2BE38A&label=Repos&query=public_repos&url=https://api.github.com/users/mk6084518-design"/> 
 <img src="https://img.shields.io/badge/Noida-India-4CC9F0?style=for-the-badge&labelColor=0B0A24"/>
 
 </div>
