@@ -10,7 +10,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=mk6084518-design&style=for-the-badge&color=FF5D73&labelColor=0B0A24&label=PROFILE+VIEWS"/>
 <img src="https://img.shields.io/github/followers/mk6084518-design?style=for-the-badge&color=FFB347&labelColor=0B0A24"/>
-<img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=0B0A24&color=2BE38A&label=Repos&query=public_repos&url=https://api.github.com/users/mk6084518-design"/>
+<img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=0B0A24&color=2BE38A&label=Repos&query=public_repos&url=https://api.github.com/users/mk6084518-design"/> 
 <img src="https://img.shields.io/badge/Noida-India-4CC9F0?style=for-the-badge&labelColor=0B0A24"/>
 
 </div>
@@ -123,19 +123,97 @@ Search images, video and GIFs in real time from Unsplash, Pexels and Tenor, all 
 
 <div align="center">
 
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mk6084518-design&hide_border=true&background=0B0A24&ring=FFB347&fire=FF5D73&currStreakLabel=2BE38A&sideLabels=4CC9F0&dates=9C97C9&stroke=B388FF&currStreakNum=F2EFFF&sideNums=F2EFFF" height="165"/>
 
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:B388FF,100:FF5D73&height=4" width="100%"/>
+<svg width="760" height="560" viewBox="0 0 760 560" xmlns="http://www.w3.org/2000/svg" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0B0A24"/>
+      <stop offset="100%" stop-color="#120f30"/>
+    </linearGradient>
+    <linearGradient id="rainbow" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FF5D73"/>
+      <stop offset="25%" stop-color="#FFB347"/>
+      <stop offset="50%" stop-color="#2BE38A"/>
+      <stop offset="75%" stop-color="#4CC9F0"/>
+      <stop offset="100%" stop-color="#B388FF"/>
+    </linearGradient>
+    <linearGradient id="fillGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FF5D73" stop-opacity="0.30"/>
+      <stop offset="50%" stop-color="#2BE38A" stop-opacity="0.22"/>
+      <stop offset="100%" stop-color="#B388FF" stop-opacity="0.28"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <filter id="softglow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="2.2"/>
+    </filter>
+  </defs>
 
-## 🧠 Skill matrix
+  <rect x="0" y="0" width="760" height="560" rx="24" fill="url(#bg)" stroke="#23204a" stroke-width="1.5"/>
 
-<div align="center">
-<img src="./assets/skill-matrix.svg" width="700" alt="Skill Matrix"/>
-</div>
+  <text x="42" y="58" font-family="'JetBrains Mono','Courier New',monospace" font-size="23" font-weight="700" fill="#f2f0ff" letter-spacing="0.5">MANOJ.SKILLMATRIX</text>
+  <text x="42" y="80" font-family="'JetBrains Mono','Courier New',monospace" font-size="12.5" fill="#8b87b8" letter-spacing="1.5">FULL STACK · MERN + AI · BUILDING THINGS THAT WORK</text>
+  <line x1="42" y1="96" x2="718" y2="96" stroke="#23204a" stroke-width="1"/>
+  <polygon points="380.0,265.0 404.7,275.3 415.0,300.0 404.7,324.7 380.0,335.0 355.3,324.7 345.0,300.0 355.3,275.3" fill="none" stroke="#221f47" stroke-width="1"/>
+  <polygon points="380.0,230.0 429.5,250.5 450.0,300.0 429.5,349.5 380.0,370.0 330.5,349.5 310.0,300.0 330.5,250.5" fill="none" stroke="#221f47" stroke-width="1"/>
+  <polygon points="380.0,195.0 454.2,225.8 485.0,300.0 454.2,374.2 380.0,405.0 305.8,374.2 275.0,300.0 305.8,225.8" fill="none" stroke="#221f47" stroke-width="1"/>
+  <polygon points="380.0,160.0 479.0,201.0 520.0,300.0 479.0,399.0 380.0,440.0 281.0,399.0 240.0,300.0 281.0,201.0" fill="none" stroke="#221f47" stroke-width="1"/>
+  <polygon points="380.0,125.0 503.7,176.3 555.0,300.0 503.7,423.7 380.0,475.0 256.3,423.7 205.0,300.0 256.3,176.3" fill="none" stroke="#221f47" stroke-width="1"/>
+  <line x1="380" y1="300" x2="380.0" y2="125.0" stroke="#221f47" stroke-width="1"/>
+  <line x1="380" y1="300" x2="503.7" y2="176.3" stroke="#221f47" stroke-width="1"/>
+  <line x1="380" y1="300" x2="555.0" y2="300.0" stroke="#221f47" stroke-width="1"/>
+  <line x1="380" y1="300" x2="503.7" y2="423.7" stroke="#221f47" stroke-width="1"/>
+  <line x1="380" y1="300" x2="380.0" y2="475.0" stroke="#221f47" stroke-width="1"/>
+  <line x1="380" y1="300" x2="256.3" y2="423.7" stroke="#221f47" stroke-width="1"/>
+  <line x1="380" y1="300" x2="205.0" y2="300.0" stroke="#221f47" stroke-width="1"/>
+  <line x1="380" y1="300" x2="256.3" y2="176.3" stroke="#221f47" stroke-width="1"/>
+  <polygon points="380.0,142.5 481.5,198.5 527.0,300.0 479.0,399.0 380.0,431.2 283.5,396.5 226.0,300.0 293.4,213.4" fill="url(#fillGrad)" stroke="url(#rainbow)" stroke-width="2.5" filter="url(#glow)"/>
+  <polygon points="380.0,142.5 481.5,198.5 527.0,300.0 479.0,399.0 380.0,431.2 283.5,396.5 226.0,300.0 293.4,213.4" fill="url(#fillGrad)" stroke="url(#rainbow)" stroke-width="2"/>
+  <circle cx="380.0" cy="142.5" r="5.5" fill="#0B0A24" stroke="#FF5D73" stroke-width="2.5" filter="url(#softglow)"/>
+  <circle cx="380.0" cy="142.5" r="2.2" fill="#f2f0ff"/>
+  <circle cx="481.5" cy="198.5" r="5.5" fill="#0B0A24" stroke="#FFB347" stroke-width="2.5" filter="url(#softglow)"/>
+  <circle cx="481.5" cy="198.5" r="2.2" fill="#f2f0ff"/>
+  <circle cx="527.0" cy="300.0" r="5.5" fill="#0B0A24" stroke="#2BE38A" stroke-width="2.5" filter="url(#softglow)"/>
+  <circle cx="527.0" cy="300.0" r="2.2" fill="#f2f0ff"/>
+  <circle cx="479.0" cy="399.0" r="5.5" fill="#0B0A24" stroke="#4CC9F0" stroke-width="2.5" filter="url(#softglow)"/>
+  <circle cx="479.0" cy="399.0" r="2.2" fill="#f2f0ff"/>
+  <circle cx="380.0" cy="431.2" r="5.5" fill="#0B0A24" stroke="#B388FF" stroke-width="2.5" filter="url(#softglow)"/>
+  <circle cx="380.0" cy="431.2" r="2.2" fill="#f2f0ff"/>
+  <circle cx="283.5" cy="396.5" r="5.5" fill="#0B0A24" stroke="#FF5D73" stroke-width="2.5" filter="url(#softglow)"/>
+  <circle cx="283.5" cy="396.5" r="2.2" fill="#f2f0ff"/>
+  <circle cx="226.0" cy="300.0" r="5.5" fill="#0B0A24" stroke="#FFB347" stroke-width="2.5" filter="url(#softglow)"/>
+  <circle cx="226.0" cy="300.0" r="2.2" fill="#f2f0ff"/>
+  <circle cx="293.4" cy="213.4" r="5.5" fill="#0B0A24" stroke="#2BE38A" stroke-width="2.5" filter="url(#softglow)"/>
+  <circle cx="293.4" cy="213.4" r="2.2" fill="#f2f0ff"/>
+  <text x="380.0" y="79.0" text-anchor="middle" font-family="'JetBrains Mono',monospace" font-size="13.5" font-weight="600" fill="#e4e1fa">React.js</text>
+  <text x="380.0" y="95.0" text-anchor="middle" font-family="'JetBrains Mono',monospace" font-size="11" font-weight="700" fill="#FF5D73">90</text>
+  <text x="536.3" y="143.7" text-anchor="start" font-family="'JetBrains Mono',monospace" font-size="13.5" font-weight="600" fill="#e4e1fa">Redux Toolkit</text>
+  <text x="536.3" y="159.7" text-anchor="start" font-family="'JetBrains Mono',monospace" font-size="11" font-weight="700" fill="#FFB347">82</text>
+  <text x="601.0" y="300.0" text-anchor="start" font-family="'JetBrains Mono',monospace" font-size="13.5" font-weight="600" fill="#e4e1fa">Node.js</text>
+  <text x="601.0" y="316.0" text-anchor="start" font-family="'JetBrains Mono',monospace" font-size="11" font-weight="700" fill="#2BE38A">84</text>
+  <text x="536.3" y="456.3" text-anchor="start" font-family="'JetBrains Mono',monospace" font-size="13.5" font-weight="600" fill="#e4e1fa">Express.js</text>
+  <text x="536.3" y="472.3" text-anchor="start" font-family="'JetBrains Mono',monospace" font-size="11" font-weight="700" fill="#4CC9F0">80</text>
+  <text x="380.0" y="521.0" text-anchor="middle" font-family="'JetBrains Mono',monospace" font-size="13.5" font-weight="600" fill="#e4e1fa">MongoDB</text>
+  <text x="380.0" y="537.0" text-anchor="middle" font-family="'JetBrains Mono',monospace" font-size="11" font-weight="700" fill="#B388FF">75</text>
+  <text x="223.7" y="456.3" text-anchor="end" font-family="'JetBrains Mono',monospace" font-size="13.5" font-weight="600" fill="#e4e1fa">JWT Auth</text>
+  <text x="223.7" y="472.3" text-anchor="end" font-family="'JetBrains Mono',monospace" font-size="11" font-weight="700" fill="#FF5D73">78</text>
+  <text x="159.0" y="300.0" text-anchor="end" font-family="'JetBrains Mono',monospace" font-size="13.5" font-weight="600" fill="#e4e1fa">Tailwind</text>
+  <text x="159.0" y="316.0" text-anchor="end" font-family="'JetBrains Mono',monospace" font-size="11" font-weight="700" fill="#FFB347">88</text>
+  <text x="223.7" y="143.7" text-anchor="end" font-family="'JetBrains Mono',monospace" font-size="13.5" font-weight="600" fill="#e4e1fa">Gemini AI</text>
+  <text x="223.7" y="159.7" text-anchor="end" font-family="'JetBrains Mono',monospace" font-size="11" font-weight="700" fill="#2BE38A">70</text>
+  <text x="718" y="534" text-anchor="end" font-family="'JetBrains Mono',monospace" font-size="10.5" fill="#4a4670" letter-spacing="1">github.com/mk6084518-design</text>
+</svg>
 
-<img src="file:///Users/manojkumar/Downloads/skill-matrix%20(1).svg" width="100%"/>
 
 ## 📫 Let's connect
 
@@ -144,6 +222,7 @@ Search images, video and GIFs in real time from Unsplash, Pexels and Tenor, all 
 <a href="https://www.linkedin.com/in/manoj-kumar-138529392/"><img src="https://img.shields.io/badge/LinkedIn-4CC9F0?style=for-the-badge&logo=linkedin&logoColor=0B0A24"/></a>
 <a href="https://github.com/mk6084518-design"><img src="https://img.shields.io/badge/GitHub-B388FF?style=for-the-badge&logo=github&logoColor=0B0A24"/></a>
 <a href="https://my-portfolio-xttc.onrender.com/"><img src="https://img.shields.io/badge/Portfolio-2BE38A?style=for-the-badge&logo=vercel&logoColor=0B0A24"/></a>
+
 
 <i>Full stack developer · MERN + AI · Building things that work.</i>
 
